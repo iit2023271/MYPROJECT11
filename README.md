@@ -3,6 +3,10 @@
 Type text, pick a voice, and have the browser read it aloud — no server, no API key, just the browser's built-in speech engine.
 
 
+## Screenshot
+
+![Demo](screenshots/demo.png)
+
 ## Features
 
 - Text input area
